@@ -1,0 +1,28 @@
+header{
+    background-color: beige;
+}
+body{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: wheat;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+.contenedor{
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 1000px;
+}
+.imagen01{
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+}
+footer{
+    text-align: center;
+    padding: 15px;
+    background-color: beige;
+}
