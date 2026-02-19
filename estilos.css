@@ -83,3 +83,13 @@ article {
     display: flex;
     gap: 20px;
 }
+footer{
+    background-color: #3a542e;
+    text-align: center;
+    color: white;
+}
+.header04{
+    background-color: #1b5e20;
+    color: white;
+    padding: 15px;
+}
