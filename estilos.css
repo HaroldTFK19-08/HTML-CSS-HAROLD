@@ -26,3 +26,37 @@ footer{
     padding: 15px;
     background-color: beige;
 }
+.imagen{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: 300px;
+}
+.video01{
+    display: block;
+    margin: auto;
+}
+.contenedor01{
+    background-color: #c8e6c9;
+    padding: 20px;
+}
+.header01{
+    background-color: #1b5e20;
+    color: white;
+    padding: 15px;
+}
+.footer01{
+    background-color: #3a542e;
+    text-align: center;
+    color: white;
+}
+.tabla01{
+    margin: 0 auto; /* Centra horizontalmente */
+    border-collapse: collapse;
+    text-align: center;
+}
+.tabla02{
+    margin: 0 auto; /* Centra horizontalmente */
+    border-collapse: collapse;
+    text-align: center;
+}
