@@ -1,0 +1,42 @@
+body{
+    color: red;
+    text-align: justify;
+    background-color: aqua;
+}
+img{
+    border-radius: 8px;
+    /* linea de la imagen*/
+    border: 1px solid blue;
+    /* Sombra de imagen*/
+    box-shadow: 5px 5px 10px black;
+}
+.img01{
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+}
+.img03{
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+    height: 30%;
+}
+.Img05{
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+    height: 30%;
+}
+li a{
+    text-decoration: none;
+    color: inherit;
+}
+ul{
+    padding: 0;
+    background-color: aquamarine;
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
