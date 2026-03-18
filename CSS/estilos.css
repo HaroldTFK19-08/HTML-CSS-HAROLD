@@ -1,11 +1,14 @@
 header{
     background-color: beige;
+    padding: 10px;
 }
 body{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-color: wheat;
+    background-color: white;
+    margin: 0;
+    padding:0;
 }
 img{
     display: block;
@@ -46,9 +49,9 @@ footer{
     padding: 15px;
 }
 .footer01{
-    background-color: #3a542e;
+    background-color: beige;
     text-align: center;
-    color: white;
+    color: black;
 }
 .tabla01{
     margin: 0 auto; /* Centra horizontalmente */
@@ -84,9 +87,9 @@ article {
     gap: 20px;
 }
 footer{
-    background-color: #3a542e;
+    background-color: beige;
     text-align: center;
-    color: white;
+    color: black;
 }
 .header04{
     background-color: #1b5e20;

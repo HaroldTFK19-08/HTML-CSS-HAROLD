@@ -1,0 +1,17 @@
+.header{
+    background-color: rgb(162, 162, 119);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 30px;
+}
+.a1{
+    gap: 100px;
+}
+.a{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background-color: rgb(162, 162, 119);
+}
