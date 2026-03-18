@@ -14,6 +14,9 @@ img{
     display: block;
     margin: 0 auto;
 }
+.seccion1{
+    background-image: url(/imagenes/ChatGPT\ Image\ 17\ feb\ 2026\,\ 17_21_59.png);
+}
 .contenedor{
     margin: 0 auto;
     border-collapse: collapse;
