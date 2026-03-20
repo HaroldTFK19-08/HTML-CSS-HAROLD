@@ -18,6 +18,9 @@
 .a{
     text-align: center;
 }
+body{
+    background-color: beige;
+}
 footer{
     text-align: center;
     background-color: rgb(162, 162, 119);
