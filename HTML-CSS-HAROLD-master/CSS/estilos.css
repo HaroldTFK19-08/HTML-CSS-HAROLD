@@ -1,0 +1,115 @@
+header{
+    background-color: beige;
+    padding: 10px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: white;
+    margin: 0;
+    padding:0;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+.seccion1{
+    background-image: url(/imagenes/ChatGPT\ Image\ 17\ feb\ 2026\,\ 17_21_59.png);
+}
+.contenedor{
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 1000px;
+}
+.imagen01{
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+}
+footer{
+    text-align: center;
+    padding: 15px;
+    background-color: beige;
+}
+.footer02{
+    background-color: #1b5e20;
+    color: white;
+}
+.footer03{
+    background-color: rgba(0,0,0,0.7);
+    color: white;
+    text-align: center;
+}
+.imagen{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: 300px;
+}
+.video01{
+    display: block;
+    margin: auto;
+}
+.contenedor01{
+    background-color: #c8e6c9;
+    padding: 20px;
+}
+.header01{
+    background-color: #1b5e20;
+    color: white;
+    padding: 15px;
+}
+.footer01{
+    background-color: rgb(68, 125, 68);
+    text-align: center;
+    color: white;
+}
+.tabla01{
+    margin: 0 auto; /* Centra horizontalmente */
+    border-collapse: collapse;
+    text-align: center;
+}
+.tabla02{
+    margin: 0 auto; /* Centra horizontalmente */
+    border-collapse: collapse;
+    text-align: center;
+}
+aside {
+    flex: 1;
+    background-color: #606425;
+    color: white;
+    padding: 15px;
+}
+
+main{
+    flex: 1;
+    padding: 20px;
+}
+.header03{
+    background-color: rgba(0,0,0,0.7);
+    color: white;
+
+}
+article {
+    flex: 3;
+}
+.c1{
+    display: flex;
+    gap: 20px;
+}
+footer{
+    background-color: beige;
+    text-align: center;
+    color: black;
+}
+.header04{
+    background-color: #1b5e20;
+    color: white;
+    padding: 15px;
+}
+.footerpatrocinador{
+    background-color: #1b5e20;
+    color: white;
+    text-align: center;
+}
